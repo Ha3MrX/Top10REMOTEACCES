@@ -1,5 +1,5 @@
 #!/bin/bash
-#Ten Remout Remote Access Tools Create By HA-MRX
+#Top Ten Remote Access Tools Create By HA-MRX
 #YouTube  : https://www.youtube.com/c/HA-MRX
 #Website  : https://kurdkali.wordpress.com/
 #Facebook : https://www.facebook.com/muhamad.jabar222
