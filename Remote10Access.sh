@@ -19,8 +19,8 @@ cat  <<  EOF
                                                    
 EOF
 
-mkdir Toolkit
-cd Toolkit
+mkdir Tool
+cd Tool
 
 # Git Repos...
 
