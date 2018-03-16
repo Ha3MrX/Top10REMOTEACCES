@@ -25,10 +25,10 @@ cd Toolkit
 # Git Repos...
 
 
-git clone https://github.com/Screetsec/TheFatRat
+git clone https://github.com/pasahitz/zirikatu
 git clone https://github.com/Veil-Framework/Veil
 git clone https://github.com/tiagorlampert/CHAOS
-git clone https://github.com/pasahitz/zirikatu
+git clone https://github.com/Screetsec/TheFatRat
 git clone https://github.com/Mr-Un1k0d3r/DKMC
 git clone https://github.com/rand0m1ze/ezsploit
 git clone https://github.com/M4sc3r4n0/Evil-Droid
